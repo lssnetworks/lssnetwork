@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'RohnRounded';
+	src: url(../../assets/fonts/RohnRounded-4263673d070114ff8d10c406d436e929.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RohnRounded-4263673d070114ff8d10c406d436e929.eot) format('embedded-opentype'),
+	url(../../assets/fonts/RohnRounded-153bc9a70c334071ebfd5da7d87fcc2c.woff2) format('woff2'),
+	url(../../assets/fonts/RohnRounded-8f28e60960f1f91a6c9487ac8f5b1195.woff) format('woff'),
+	url(../../assets/fonts/RohnRounded-44c28e91bec0d44e24272e5881c452d1.ttf) format('truetype'),
+	url(../../assets/fonts/RohnRounded-526805895adaca3349935365c69d5291.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
